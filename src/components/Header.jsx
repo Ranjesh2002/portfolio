@@ -22,7 +22,7 @@ const Header = () => {
           <div className="absolute w-64 h-64 md:w-72 md:h-72 rounded-full bg-blue-400/30 animate-pulse"></div>
           <div className="relative">
             <img
-              src="/Portfolio/images/img.png"
+              src="/images/img.png"
               alt="Ranjesh Thakur"
               className="w-60 h-60 md:w-64 md:h-64 rounded-full border-4 border-white shadow-xl hover:scale-105 transition-transform duration-500 object-cover z-10"
             />
