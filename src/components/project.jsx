@@ -14,7 +14,7 @@ const Projects = () => {
         </a>
       ),
       description: "A full-stack web application built with React and Node.js",
-      image: "/Portfolio/images/todo.png",
+      image: "/images/todo.png",
       link: "https://ranjesh2002.github.io/todo-list/",
     },
     {
@@ -29,7 +29,7 @@ const Projects = () => {
         </a>
       ),
       description: "A full-stack web application built with React and Node.js",
-      image: "/Portfolio/images/pdf.png",
+      image: "/images/pdf.png",
       link: "https://ranjesh2002.github.io/pdfmerger/",
     },
     {
@@ -44,7 +44,7 @@ const Projects = () => {
         </a>
       ),
       description: "A full-stack web application built with React and Node.js",
-      image: "/Portfolio/images/pomodoro.png",
+      image: "/images/pomodoro.png",
       link: "https://ranjesh2002.github.io/Pomodoro-clock/",
     },
   ];
