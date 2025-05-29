@@ -15,8 +15,8 @@ Check it out here: [Visit Portfolio](https://ranjeshportfolio.netlify.app/)
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Framework**: React *(or Next.js if applicable)*  
-- **Styling**: Tailwind CSS / Bootstrap *(use the one you used)*  
+- **Framework**: React   
+- **Styling**: Tailwind CSS 
 - **Hosting**: Netlify  
 - **Version Control**: Git + GitHub
 
@@ -26,14 +26,14 @@ Check it out here: [Visit Portfolio](https://ranjeshportfolio.netlify.app/)
 - 💼 Project showcase section  
 - 📄 Resume download/view option  
 - 📫 Contact form with email integration  
-- 🌙 Light/Dark mode toggle *(if applicable)*
+- 🌙 Light/Dark mode toggle 
 
 ## 🚀 Getting Started Locally
 
 To run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Ranjesh2002/portfolio.git
 cd portfolio
 npm install
 npm start
