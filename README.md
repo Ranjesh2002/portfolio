@@ -10,7 +10,7 @@ Check it out here: [Visit Portfolio](https://ranjeshportfolio.netlify.app/)
 
 | Home Page | Projects Page |
 |-----------|---------------|
-| ![Home](/images/img.png) | ![Projects](screenshots/projects.png) |
+| ![Home](screenshot/Screenshot%202025-05-29%20120146.png) | ![Projects](screenshots/projects.png) |
 
 ## 🛠️ Tech Stack
 
