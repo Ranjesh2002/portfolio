@@ -48,7 +48,7 @@ npm start
 
 ## 🙏 Acknowledgments
 
-- Icons by [Font Awesome](https://fontawesome.com/)
+- Icons by [React-icons](https://react-icons.github.io/react-icons/)
 - Hosting by [Netlify](https://netlify.com/)
 
 
