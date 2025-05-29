@@ -41,12 +41,12 @@ npm install
 npm start
 
 
-## 🧑‍💻 Author
+ 🧑‍💻 Author
 
 **Ranjesh Thakur**  
 [GitHub](https://github.com/Ranjesh2002) • [LinkedIn](www.linkedin.com/in/ranjesh-sharma-190b75261)
 
-## 🙏 Acknowledgments
+🙏 Acknowledgments
 
 - Icons by [Font Awesome](https://fontawesome.com/)
 - Hosting by [Netlify](https://netlify.com/)
