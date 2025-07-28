@@ -9,7 +9,7 @@ import ThemeToggle from "./components/theme";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/portfolio">
       <Navbar />
       <ThemeToggle />
       <Routes>
